@@ -1,0 +1,6 @@
+.token-image {
+    width: 100%;          /* A largura ocupará 100% do contêiner pai */
+    height: 200px;        /* Definir uma altura fixa */
+    object-fit: cover;    /* Ajustar a imagem, cortando se necessário */
+    border-radius: 8px;   /* Adicionar bordas arredondadas, opcional */
+  }
